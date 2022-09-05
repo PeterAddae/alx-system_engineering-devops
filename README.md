@@ -1,1 +1,1 @@
-home directory
+ hidden files
