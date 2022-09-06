@@ -1,0 +1,4 @@
+#!/bin/bash
+<<<<<<< HEAD
+echo $PATH | tr "." "\n" | wc -l
+
